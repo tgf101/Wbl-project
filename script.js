@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-  const apiKey = "AIzaSyDyXF_RJ-scGLuwBcpzyeweEJ1iEvlUdfQ";
+  const apiKey = "";
 
   const chatToggle = document.getElementById("chat-toggle");
   const chatContainer = document.getElementById("chat-container");
